@@ -3,13 +3,13 @@
 Já que chegou até aqui, que tal me conhecer um pouco mais? Me chamo Rodrigo. Existem duas coisas pelas quais eu sou apaixonado: café☕ e tecnologia💻. Gosto tanto da segunda que estou trilhando o   caminho de engenharia de dados 👷🏼‍♂️. Que tal acompanhar o meu progresso?!
 
 #
-<h3> 🧠 O que eu já aprendi:</h3>
+<h4> 🧠 O que eu já aprendi:</h4>
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>  
 
 #
-<h3> 🧐 Onde me encontrar:</h3>
+<h4> 🧐 Onde me encontrar:</h4>
 <div>
 <a href = "mailto:rodrigo.cruz.vianna@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rodrigocvianna/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
@@ -17,7 +17,5 @@ Já que chegou até aqui, que tal me conhecer um pouco mais? Me chamo Rodrigo. E
 </div>
 
 #
-<h3> 📈 Métricas GitHub:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rocruvia&show_icons=true&locale=en" alt="rocruvia" /></p>
-
+<h4> 📈 Métricas GitHub:</h4>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rocruvia&show_icons=true&locale=en" alt="rocruvia" /></p>
