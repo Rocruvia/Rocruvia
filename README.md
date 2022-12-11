@@ -3,7 +3,7 @@
 Já que chegou até aqui, que tal me conhecer um pouco mais? Me chamo Rodrigo. Existem duas coisas pelas quais eu sou apaixonado: café☕ e tecnologia💻. Gosto tanto da segunda que estou trilhando o   caminho de engenharia de dados 👷🏼‍♂️. Que tal acompanhar o meu progresso?!
 
 #
-<h4> 🧠 Ferramentas e linguagens:</h4>
+<h4> 🛠 Ferramentas e linguagens:</h4>
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>  
