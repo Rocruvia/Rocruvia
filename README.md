@@ -18,4 +18,4 @@ Já que chegou até aqui, que tal me conhecer um pouco mais? Me chamo Rodrigo. E
 
 #
 <h4> 📈 Métricas GitHub:</h4>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rocruvia&show_icons=true&locale=en" alt="rocruvia" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rocruvia&theme=slateorange&show_icons=true" alt="rocruvia" /></p>
